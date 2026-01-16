@@ -5,7 +5,7 @@ Bu paket, sadece basit bir metin çevirisi değil; oyunun teknik eksikliklerini 
 
 ✨ Öne Çıkan Özellikler:
 Tam Türkçe Uyumluluğu: ı, ş, ğ, ç, ö, ü gibi karakterlerin kutucuk şeklinde görünmesi sorunu font atlasları yeniden işlenerek tamamen çözüldü.
-Gelişmiş Çeviri: Ana menüden oyun içi komutlara, envanter sisteminden diyaloglara kadar her şey titizlikle elden geçirildi.
+Gelişmiş Çeviri: Ana menüden envanter sistemine ve diyaloglara kadar her şey titizlikle elden geçirildi.
 Teknik Terim Koruması: Topluluğun alışkın olduğu Asset, Chunk, Warp, Hitbox gibi terimler korunarak oyuncu deneyimi en üst seviyede tutuldu.
 Stabil ve Hızlı: Oyun performansını etkilemez, orijinal Hytale dosyalarıyla tam uyumlu çalışır.
 
@@ -22,8 +22,7 @@ Her şey hazır! Artık Hytale’i tamamen Türkçe ve sorunsuz fontlarla oynama
 
 📝 Notlar:
 Herhangi bir güncelleme sonrası Türkçe karakterlerde bozulma olursa tekrar yamayı uygulamanız gerekecektir.
-Geri bildirimleriniz benim için çok değerli; karşılaştığınız hataları veya önerilerinizi bildirmekten çekinmeyin!
-Orbis’te görüşmek üzere!
+Bu yama yapay zeka kullanılarak yapılmıştır kelime hataları, yanlış çeviriler vs. olabilir.!
 
 <img width="1915" height="985" alt="image" src="https://github.com/user-attachments/assets/5aa850b9-d980-440e-9156-fb83918a455b" />
 <img width="476" height="90" alt="Ekran görüntüsü 2026-01-16 020906" src="https://github.com/user-attachments/assets/b6ec0cd6-f3e8-4e03-b035-ef0615f77a80" />
