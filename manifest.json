@@ -1,0 +1,15 @@
+{
+  "Group": "HyTurk",
+  "Name": "Türkçe Çeviri",
+  "Version": "2026.01.15-c04fdfe10",
+  "Description": "hyturk.com",
+  "Authors": [
+    {
+      "Name": "LordOfTurk"
+    }
+  ],
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false
+}
