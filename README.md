@@ -24,3 +24,6 @@ Her şey hazır! Artık Hytale’i tamamen Türkçe ve sorunsuz fontlarla oynama
 Herhangi bir güncelleme sonrası Türkçe karakterlerde bozulma olursa tekrar yamayı uygulamanız gerekecektir.
 Geri bildirimleriniz benim için çok değerli; karşılaştığınız hataları veya önerilerinizi bildirmekten çekinmeyin!
 Orbis’te görüşmek üzere!
+<img width="476" height="90" alt="Ekran görüntüsü 2026-01-16 020906" src="https://github.com/user-attachments/assets/b6ec0cd6-f3e8-4e03-b035-ef0615f77a80" />
+<img width="434" height="169" alt="Ekran görüntüsü 2026-01-16 021040" src="https://github.com/user-attachments/assets/ca940d62-0bc9-4dd7-9b54-a60b36f30188" />
+
